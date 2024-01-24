@@ -2,6 +2,6 @@
 # TOS2 Modding Docs
 Documentation for creating TOS2 Mods using SalemModLoader.
 
-https://github.com/Curtbot9000/TOS2-Modding-Docs/wiki
+Access the wiki [here](https://github.com/Curtbot9000/TOS2-Modding-Docs/wiki)
 
-https://github.com/Curtbot9000/SalemModLoader/releases/latest
+Access the mod loader [here](https://github.com/Curtbot9000/SalemModLoader/releases/latest)
